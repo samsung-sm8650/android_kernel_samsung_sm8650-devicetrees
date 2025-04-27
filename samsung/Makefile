@@ -1,5 +1,5 @@
-PINEAPPLE_BASE_DTB += ../qcom/pineapple.dtb ../qcom/pineapple-v2.dtb
-PINEAPPLE_APQ_BASE_DTB += ../qcom/pineapplep.dtb ../qcom/pineapplep-v2.dtb
+PINEAPPLE_BASE_DTB += ../qcom/pineapple-v2.dtb
+PINEAPPLE_APQ_BASE_DTB += ../qcom/pineapplep-sg-v2.dtb ../qcom/pineapplep-v2.dtb
 
 SAMSUNG_PINEAPPLE_BOARDS += \
     e3q_eur_openx_w00_r00_v1.dtbo \
